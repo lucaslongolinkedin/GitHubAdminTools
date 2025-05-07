@@ -1,69 +1,320 @@
 
-<![endif]-->
+## Exhibits
 
-# Licenses for Software and Assets
+## Exhibit 1: REVIEWED LICENSES
 
-This section describes licensing requirements when hosting exercise files on GitHub.
+## LICENSE TYPE A: Whitelisted Permissive Licenses (No Affiliate License)
 
-## **Background**
+### Modification allowed. See Third Party IP (2a) above for further details.
 
-1.  LinkedIn strives to offer courses with exercise files to our members to help them build their skills.
-2.  LinkedIn supports and respects the Open Source community. We comply with open source licenses governing any open source code we use and follow best practices in the industry.
-3.  LinkedIn respects the IP rights of others. We don't use third party IP (such as code, images, or trademarks) in exercise files except as expressly approved within these guidelines.
-4.  LinkedIn respects individuals' right of privacy and publicity. We don't use member data (or any other personal information), nor do we use an individual's name, likeness, or images without permission (to be approved as set forth below).
-5.  LinkedIn strives to provide safe and secure products. We comply with security requirements provided by the LinkedIn Security team.
+Permissive licenses grant you the right to use and modify the software as long as you properly attribute the copyright to the author. This usually consists of including the copyright information for the code's author and a copy of the license. You can distribute these permissively licensed OSS within a LinkedIn Learning GitHub account provided you properly attribute them and otherwise comply with the license. Note, some of these licenses provide licenses from our affiliates (See License Type B below). Those packages may not be modified without approval by the Legal department.
 
-## **Licensing Basics**
+-   Apache Software License, version 1.1 (Apache-1.1)
+    
+-   Attribution Assurance Licenses (AAL)
+    
+-   Boost Software License (BSL-1.0)
+    
+-   BSD Zero Clause License (0BSD)
+    
+-   BSD 2-Clause \"Simplified\" or \"FreeBSD\" License (BSD-2-Clause)
+    
+-   BSD 3-Clause \"New\" or \"Revised\" License (BSD-3-Clause)
+    
+-   BSD+Patent
+    
+-   CNRI Python license (CNRI-Python) (CNRI portion of Python License)
+    
+-   Computer Associates Trusted Open Source License 1.1 (CATOSL-1.1)
+    
+-   Creative Commons Attribution 4.0 International (but NOT other Creative Commons licenses such as ShareAlike and Noncommercial)
+    
+-   Creative Commons CC0 1.0 Universal Public Domain Dedication
+    
+-   Educational Community License, Version 1.0 (ECL-1.0)
+    
+-   Eiffel Forum License, V1.0 (EFL-1.0)
+    
+-   Eiffel Forum License V2.0 (EFL-2.0)
+    
+-   Entessa Public License (Entessa)
+    
+-   EU DataGrid Software License (EUDatagrid)
+    
+-   Fair License (Fair)
+    
+-   Free Public License 1.0.0
+    
+-   Historical Permission Notice and Disclaimer (HPND)
+    
+-   ICU License
+    
+-   Intel Open Source License (Intel)
+    
+-   ISC License (ISC)
+    
+-   Microsoft EULA
+    
+-   Microsoft Public License (MS-PL)
+    
+-   MirOS Licence (MirOS)
+    
+-   MIT license (MIT)
+    
+-   Multics License (Multics)
+    
+-   Naumen Public License (Naumen)
+    
+-   NTP License (NTP)
+    
+-   Open Group Test Suite License (OGTSL)
+    
+-   PHP License 3.0 (PHP-3.0)
+    
+-   Public Domain
+    
+-   Python License (Python-2.0) (overall Python license)
+    
+-   Q Public License (QPL-1.0)
+    
+-   SQL Lite "Public Domain"
+    
+-   The PostgreSQL License (PostgreSQL)
+    
+-   Universal Permissive License (UPL)
+    
+-   University of Illinois/NCSA Open Source License (NCSA)
+    
+-   Unlicense
+    
+-   Vovida Software License v. 1.0 (VSL-1.0)
+    
+-   WTFPL
+    
+-   W3C License (W3C)
+    
+-   X.Net License (Xnet)
+    
+-   zlib/libpng license (Zlib)
+    
+-   Zope Public License 2.0 (ZPL-2.0)
+    
 
-1.  Code shall be made available under the [LinkedIn Learning Exercise File License](https://docs.lilinstructors.com/legal/legal-license-exercises), except as set forth below or otherwise approved by LiL-Github-Team@linkedin.com.
-2.  All Course Exercise File Repos are to be approved by LiL-Github-Team@linkedin.com before they are made public.
-3.  Nothing should be posted on the repo that is confidential to LinkedIn (or its partners) or of any strategic value (or of any other value, other than to provide practice to our learners) to LinkedIn. For example, there may not be any code from any LinkedIn repo included in the LinkedIn Learning Repo. All code must only be created by the instructor or from OSS packages as allowed below.
-4.  Only source code will be included in exercise files, unless approved by LiL-Github-Team@linkedin.com.
-5.  While source code is the standard medium for the exercise files, images approved by the Assets team (email ldc-prod-assets@linkedin.com) may be included.
-6.  No images containing identifiable individuals may be included.
+## LICENSE TYPE B: Permissive Licenses (with Affiliate License) - NO MODIFICATION
 
-## **Third party IP**
+### No modification allowed. See Third Party IP (2c) above for further details.
 
-1.  No third-party IP except for 1) third party content approved by ldc-prod-assets@linkedin.com and 2) the approved OSS licensed code described below.
-2.  Open Source Software may be included only as set forth below.
-3.  Only code licensed under the permissive OSS licenses listed on LIST A in Exhibit 1 may be used without approval.
-4.  Instructors must comply with all open source licenses as stated in the applicable open source licenses, and make sure the project complies with industry best practices. Note, even without such a requirement, at a minimum you must include (1) the name of the OSS software package, (2) the copyright notices and name and text of the open source license. You will need to build this into the NOTICE file in the repo (See preparing code below for the standard format and process).
-5.  Do not modify any third-party code (including any open source files) unless i) in List A below or ii) approved by LiL-Github-Team@linkedin.com. In particular, no code under List B, C, or D may be modified without Legal approval.
+You can distribute these permissively licensed OSS within a LinkedIn Learning Github account provided you properly attribute them, otherwise comply with the license and DO NOT MODIFY THEM. These licenses from our affiliates may not be modified without approval by the Legal department.
 
-## **Preparing the Code**
+-   Academic Free License 1.2 (AFL-1.2)
+    
+-   Academic Free License 2.1 (AFL-2.1)
+    
+-   Academic Free License 3.0 (AFL-3.0)
+    
+-   Apache License 2.0 (Apache-2.0)
+    
+-   Condor Public License
+    
+-   Educational Community License, Version 2.0 (ECL-2.0)
+    
+-   Erlang Public License 1.1
+    
+-   ImageMagick License
+    
 
-1.  General. For the standard process, LICENSE, NOTICE, CONTRIBUTING, and other essential files are supplied in the Course Repo provided by your producer. The sections below describe the files in more detail and provide instructions for how you may need to modify these files for your specific project. Please read each section below and follow the instructions to make changes only as permitted below.
-2.  CONTRIBUTING FILE:
-3.  Include the Contributing File without change.
-4.  Note: No contributions (Pull Requests, etc) are to be accepted for any LinkedIn Learning Exercise File.
-5.  LICENSE FILE:
-6.  The License file should be used without change unless approved by LiL-Github-Team@linkedin.com.
-7.  Even if changes are approved, no project can be licensed under a license that grants any rights from an affiliate of LinkedIn's (such as those listed in List B or C) without Legal approval.
-8.  NOTICE FILE:
-9.  The Notice file should be used without change except as set forth below.
-10.  If your project includes packages licensed under an open source license (subject to the above), you need to include the attributions in the Notice file. In particular: 1. Add: "Attributions:" to the Notice File above the "Please note," language. 2. Then list each OSS package as follows:
+## LICENSE TYPE C: Copyleft Licenses
 
-1.  Name of OSS Package
-2.  URL to official website/repo
-3.  Copyright notice
-4.  "License:" with the name of the license w/link
+### Needs explicit approval. See Third Party IP (2c) above for further information.
 
-_Example:_
+Copyleft licensed packages may not be used without approval by Lil Github Team (LiL-Github-Team@linkedin.com).
 
-_AFNetworking_  [_https://github.com/AFNetworking/AFNetworking_](https://github.com/AFNetworking/AFNetworking) [](https://github.com/AFNetworking/AFNetworking) _Copyright (c) 2011–2015 Alamofire Software Foundation License:MIT_
+Weak copyleft licenses generally require that the OSS source code, plus any modifications to the OSS code files, be made available under the same OSS license. They generally require some degree of reciprocity or other restriction on use. Strong copyleft licenses require that an OSS component, and modifications to it, remain under the copyleft license terms. The license requires products derived from the software to be licensed only under the terms of the copyleft license, which includes a requirement to make the source code to both the licensed materials and improvements available upon distribution. There is no “linking” to proprietary code allowed.
 
-1. 1. 1. Include the text for all the OSS licenses included in your list (only once even if the license is listed multiple times). 2. See example below in Exhibit 2.
+Weak Copyleft:
 
-## **Approval Process**
+-   Artistic License 2.0
+    
+-   Common Development and Distribution License 1.0 (CDDL)
+    
+-   Common Public License 1.0
+    
+-   Eclipse Public License
+    
+-   GNU Library or "Lesser" General Public License v2.1 (LGPL)
+    
+-   GNU Library or "Lesser" General Public License v3 (LGPLv3)
+    
+-   Microsoft Reciprocal License (MS-RL)
+    
+-   Motoso License
+    
+-   Mozilla Public License 1.1 (MPL 1.1)
+    
+-   Mozilla Public License 2.0 (MPL 2.0)
+    
+-   Nokia Open Source License
+    
+-   RealNetworks Public Source License V1.0
+    
+-   SIL Open Font License (OFL-1.1)
+    
+-   Sun Public License
+    
 
-All projects by instructors must be reviewed and approved by LiL GitHub Team (LiL-Github-Team@linkedin.com) before made available on GitHub.
+Strong Copyleft:
 
-1.  When the Instructor pushes the exercise files to the original repo, or submits a Pull Request (PR) for updates to existing exercise files in a public repo, the course Producer reviews integrity of the repository to ensure correct folder structure, the presence of LICENSE , NOTICE , README.md , and CONTRIBUTING.md files, and ensures all files work as intended.
-2.  Any changes to the PR should be handled via standard PR discussion procedure using GitHub tools.
-3.  Upon Producer approval, the repo is approved or Pull Request is merged with the originating repository by Producer.
-4.  Once merged, Producer requests secondary review of legal files ( LICENSE , NOTICE , README. md , and CONTRIBUTING.md ) by LiL GitHub team.
-5.  Once legal files are approved by GitHub team, the course exercise file repo can be unlocked at the appropriate time, accounting for beta testing.
+-   Apple Public Source License
+    
+-   CUA Office Public License Version 1.0
+    
+-   Frameworx License
+    
+-   GNU General Public (GPLv2)
+    
+-   GNU General Public License 3.0 (GPLv3)
+    
+-   IBM Public License 1.0
+    
+-   IPA Font License
+    
+-   NASA Open Source Agreement 1.3
+    
+-   Nethack General Public License
+    
+-   Non-Profit Open Software License 3.0 (Non-Profit OSL 3.0)
+    
+-   OCLC Research Public License 20
+    
+-   Open Software License 3.0 (OSL 3.0)
+    
+-   Reciprocal Public License 1.5 (RPL 1.5)
+    
+-   Ricoh Source Code Public License
+    
+-   Simple Public License 2.0
+    
+-   Sybase Open Watcom Public License 1.0
+    
+-   wXWindows Library Public License
+    
 
-## **Questions and Exceptions?**
+## LICENSE TYPE D: Rejected Licenses
 
-To get an approval for any exception, or for any questions, please email LiL-Github-Team@linkedin.com.
+NOT ALLOWED.
+
+Network copyleft licenses, such as those below, may not be used within LinkedIn Learning Exercise Files.
+
+Network copyleft licenses are intended to apply to parties offering cloud services or web applications, or code used to provide services through a network. For example, under some of these licenses, if you modify the code and users interact with it remotely via a network, you will need to make the source code available.
+
+-   Affero General Public License, ver 3.0
+    
+-   Binary Code License (BCL)
+    
+-   Code Project Open License
+    
+-   Common Public Attribution License ver. 1.0 [network copyleft]
+    
+-   Creative Commons Non-Commercial variants
+    
+-   European Union Public License ver. 1.1 [network copyleft]
+    
+-   Facebook BSD+ Patents License (Generally will have a BSD License plus a Patent File. [Learn More](https://medium.com/@shanecurcuru/faq-on-the-facebook-react-js-bsd-patents-license-issue-with-the-apache-software-foundation-5e05131aeaaa). )
+    
+-   JSR-275 License
+    
+-   NPL 1.0/NPL 1.1
+    
+-   QPL
+    
+-   Sleepycat License
+    
+
+## EXHIBIT 2
+
+### EXAMPLE NOTICE FILE
+
+A) EXAMPLE NOTICE FILE WITHOUT THIRD PARTY OSS DISTRIBUTED
+
+Copyright 2019 LinkedIn Corporation All Rights Reserved.
+
+Licensed under the LinkedIn Learning Exercise File License (the "License"). See LICENSE in the project root for license information.
+
+Please note, this project may automatically load third party code from external repositories (for example, NPM modules, Composer packages, or other dependencies). If so, such third party code may be subject to other license terms than as set forth above. In addition, such third party code may also depend on and load multiple tiers of dependencies. Please review the applicable licenses of the additional dependencies.
+
+NOTE TO INSTRUCTORS: The last paragraph above may be omitted if confirmed no dependencies.
+
+B) EXAMPLE NOTICE FILE WITH THIRD PARTY OSS DISTRIBUTED
+
+Copyright 2019 LinkedIn Corporation All Rights Reserved.
+
+Licensed under the LinkedIn Learning Exercise File License (the "License"). See LICENSE in the project root for license information.
+
+ATTRIBUTIONS:
+
+Bootstrap
+
+[https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
+
+Copyright (c) 2011 to 2019 the[Bootstrap Authors](https://github.com/twbs/bootstrap/graphs/contributors) and [Twitter, Inc.](https://twitter.com/)
+
+License:MIT
+
+1PasswordExtension
+
+[https://github.com/AgileBits/onepassword-app-extension](https://github.com/AgileBits/onepassword-app-extension)
+
+Copyright (c) 2014 AgileBits Inc.
+
+License:MIT
+
+6wunderkinder/Wunder.ClickOnceUninstaller
+
+[https://github.com/6wunderkinder/Wunder.ClickOnceUninstaller](https://github.com/6wunderkinder/Wunder.ClickOnceUninstaller)
+
+Copyright 2013, 6wunderkinder
+
+License:BSD 2-Clause
+
+AFNetworking
+
+[https://github.com/AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking)
+
+Copyright (c) 2011–2015 Alamofire Software Foundation ([http://alamofire.org/](http://alamofire.org/))
+
+License:MIT
+
+EXTERNAL REPOSITORIES/DEPENDENCIES
+
+Please note, this project may automatically load third party code from external repositories (for example, NPM modules, Composer packages, or other dependencies). If so, such third party code may be subject to other license terms than as set forth above. In addition, such third party code may also depend on and load multiple tiers of dependencies. Please review the applicable licenses of the additional dependencies.
+
+THIRD PARTY CODE LICENSES
+
+The MIT License (MIT)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+BSD 2-Clause License
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+-   Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+    
+-   Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+    
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+## License
+
+### Legal - Exercise Files License
+
+All code examples for our courses are licensed under the following agreement.
+
+### The License
+
+This License Agreement (the “Agreement”) is a binding legal agreement between you (as an individual or entity, as applicable) and LinkedIn Corporation (“LinkedIn”). By downloading or using the LinkedIn Learning exercise files in this repository (“Licensed Materials”), you agree to be bound by the terms of this Agreement. If you do not agree to these terms, do not download or use the Licensed Materials.
