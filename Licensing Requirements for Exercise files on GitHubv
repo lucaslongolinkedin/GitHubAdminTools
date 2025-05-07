@@ -1,0 +1,102 @@
+
+# Licenses for Software and Assets
+
+This section describes licensing requirements when hosting exercise files on GitHub.
+
+## Background
+
+1.  LinkedIn strives to offer courses with exercise files to our members to help them build their skills.
+    
+2.  LinkedIn supports and respects the Open Source community. We comply with open source licenses governing any open source code we use and follow best practices in the industry.
+    
+3.  LinkedIn respects the IP rights of others. We don't use third party IP (such as code, images, or trademarks) in exercise files except as expressly approved within these guidelines.
+    
+4.  LinkedIn respects individuals' right of privacy and publicity. We don't use member data (or any other personal information), nor do we use an individual's name, likeness, or images without permission (to be approved as set forth below).
+    
+5.  LinkedIn strives to provide safe and secure products. We comply with security requirements provided by the LinkedIn Security team.
+    
+
+## Licensing Basics
+
+1.  Code shall be made available under the [LinkedIn Learning Exercise File License](https://docs.lilinstructors.com/legal/legal-license-exercises), except as set forth below or otherwise approved by LiL-Github-Team@linkedin.com.
+    
+2.  All Course Exercise File Repos are to be approved by LiL-Github-Team@linkedin.com before they are made public.
+    
+3.  Nothing should be posted on the repo that is confidential to LinkedIn (or its partners) or of any strategic value (or of any other value, other than to provide practice to our learners) to LinkedIn. For example, there may not be any code from any LinkedIn repo included in the LinkedIn Learning Repo. All code must only be created by the instructor or from OSS packages as allowed below.
+    
+4.  Only source code will be included in exercise files, unless approved by LiL-Github-Team@linkedin.com.
+    
+5.  While source code is the standard medium for the exercise files, images approved by the Assets team (email ldc-prod-assets@linkedin.com) may be included.
+    
+6.  No images containing identifiable individuals may be included.
+    
+
+## Third party IP
+
+1.  No third-party IP except for 1) third party content approved by ldc-prod-assets@linkedin.com and 2) the approved OSS licensed code described below.
+    
+2.  Open Source Software may be included only as set forth below.
+    
+3.  Only code licensed under the permissive OSS licenses listed on LIST A in Exhibit 1 may be used without approval.
+    
+4.  Instructors must comply with all open source licenses as stated in the applicable open source licenses, and make sure the project complies with industry best practices. Note, even without such a requirement, at a minimum you must include (1) the name of the OSS software package, (2) the copyright notices and name and text of the open source license. You will need to build this into the NOTICE file in the repo (See preparing code below for the standard format and process).
+    
+5.  Do not modify any third-party code (including any open source files) unless i) in List A below or ii) approved by LiL-Github-Team@linkedin.com. In particular, no code under List B, C, or D may be modified without Legal approval.
+    
+
+## Preparing the Code
+
+1.  General. For the standard process, LICENSE, NOTICE, CONTRIBUTING, and other essential files are supplied in the Course Repo provided by your producer. The sections below describe the files in more detail and provide instructions for how you may need to modify these files for your specific project. Please read each section below and follow the instructions to make changes only as permitted below.
+    
+2.  CONTRIBUTING FILE:
+    
+3.  Include the Contributing File without change.
+    
+4.  Note: No contributions (Pull Requests, etc) are to be accepted for any LinkedIn Learning Exercise File.
+    
+5.  LICENSE FILE:
+    
+6.  The License file should be used without change unless approved by LiL-Github-Team@linkedin.com.
+    
+7.  Even if changes are approved, no project can be licensed under a license that grants any rights from an affiliate of LinkedIn's (such as those listed in List B or C) without Legal approval.
+    
+8.  NOTICE FILE:
+    
+9.  The Notice file should be used without change except as set forth below.
+    
+10.  If your project includes packages licensed under an open source license (subject to the above), you need to include the attributions in the Notice file. In particular: 1. Add: "Attributions:" to the Notice File above the "Please note," language. 2. Then list each OSS package as follows:
+    
+
+1.  Name of OSS Package
+    
+2.  URL to official website/repo
+    
+3.  Copyright notice
+    
+4.  "License:" with the name of the license w/link
+    
+
+Example:
+
+AFNetworking  [https://github.com/AFNetworking/AFNetworking](https://github.com/AFNetworking/AFNetworking) Copyright (c) 2011–2015 Alamofire Software Foundation License:MIT
+
+1. 1. 1. Include the text for all the OSS licenses included in your list (only once even if the license is listed multiple times). 2. See example below in Exhibit 2.
+
+## Approval Process
+
+All projects by instructors must be reviewed and approved by LiL GitHub Team (LiL-Github-Team@linkedin.com) before made available on GitHub.
+
+1.  When the Instructor pushes the exercise files to the original repo, or submits a Pull Request (PR) for updates to existing exercise files in a public repo, the course Producer reviews integrity of the repository to ensure correct folder structure, the presence of LICENSE , NOTICE , README.md , and CONTRIBUTING.md files, and ensures all files work as intended.
+    
+2.  Any changes to the PR should be handled via standard PR discussion procedure using GitHub tools.
+    
+3.  Upon Producer approval, the repo is approved or Pull Request is merged with the originating repository by Producer.
+    
+4.  Once merged, Producer requests secondary review of legal files ( LICENSE , NOTICE , README. md , and CONTRIBUTING.md ) by LiL GitHub team.
+    
+5.  Once legal files are approved by GitHub team, the course exercise file repo can be unlocked at the appropriate time, accounting for beta testing.
+    
+
+## Questions and Exceptions?
+
+To get an approval for any exception, or for any questions, please email LiL-Github-Team@linkedin.com.
