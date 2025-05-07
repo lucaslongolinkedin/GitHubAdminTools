@@ -1,4 +1,3 @@
-# gitHubTips
+# GitHub Admin Tools 
 
-teaet
-asdfasdf
+Hosts knowledge source for GitHub Copilot bot. 
